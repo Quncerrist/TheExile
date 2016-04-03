@@ -1,68 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7985ef7c-b602-4292-a329-937553d5c630" name="Default" comment="Test Commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/cursor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/font/0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/font/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/font/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/font/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/font/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/font/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/font/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/font/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/font/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/font/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/1024x768.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/1280x800.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/1366x768.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/800x600.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/Corel Auto-Preserve/1024x768.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/Corel Auto-Preserve/1280x800.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/Corel Auto-Preserve/1366x768.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/Corel Auto-Preserve/800x600.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/Corel Auto-Preserve/about.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/Corel Auto-Preserve/chooseresolution.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/Corel Auto-Preserve/select1366x768.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/Corel Auto-Preserve/select800x600.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/Corel Auto-Preserve/selectbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/Corel Auto-Preserve/selectresolution.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/Corel Auto-Preserve/selectslider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/Corel Auto-Preserve/settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/Corel Auto-Preserve/settingsmask.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/Corel Auto-Preserve/true.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/about.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/apply.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/ball.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/buttons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/choice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/chooseresolution.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/exitmsg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/false.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/load.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/newgamemsg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/restart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/select1024x768.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/select1280x800.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/select1366x768.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/select800x600.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/selectbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/selectfield.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/selectresolution.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/selectslider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/settingsmask.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/settingsmsg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/menu/true.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/presents.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/pw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/ui/Corel Auto-Preserve/energy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphics/ui/energy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jl1.0.1.jar" />
+    <list default="true" id="7985ef7c-b602-4292-a329-937553d5c630" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/The Exile/com/petsu/game/Game.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/The Exile/com/petsu/game/UI.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/The Exile/com/petsu/sound/BGM.class" />
@@ -71,29 +10,8 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/The Exile/com/petsu/theexile/Sprites.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/The Exile/com/petsu/theexile/TheExile$1.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/The Exile/com/petsu/theexile/TheExile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sound/faded.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sound/riseagain.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sound/riseagain.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sound/riseagain.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/javazoom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/The Exile.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings/config.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/petsu/game/Game.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/petsu/game/UI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/petsu/sound/BGM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/petsu/sound/SFX.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/petsu/theexile/Menu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/petsu/theexile/Sprites.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/petsu/theexile/TheExile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/petsu/theexile/Sprites.java" afterPath="$PROJECT_DIR$/src/com/petsu/theexile/Sprites.java" />
     </list>
     <ignored path="The Exile.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -115,10 +33,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TheExile.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TheExile.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/petsu/theexile/TheExile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.740099">
+            <state vertical-scroll-proportion="0.0">
               <caret line="827" column="0" selection-start-line="827" selection-start-column="0" selection-end-line="827" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -156,6 +74,20 @@
                 <element signature="method#about#0;class#TheExile#0" expanded="false" />
                 <element signature="method#aboutBack#0;class#TheExile#0" expanded="false" />
                 <element signature="method#exit#0;class#TheExile#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sprites.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/petsu/theexile/Sprites.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.12623763">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -203,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/petsu/theexile/Sprites.java" />
         <option value="$PROJECT_DIR$/src/com/petsu/theexile/Sounds.java" />
         <option value="$PROJECT_DIR$/src/com/petsu/theexile/tmp.java" />
         <option value="$PROJECT_DIR$/src/com/petsu/theexile/BGM.java" />
@@ -216,6 +147,7 @@
         <option value="$PROJECT_DIR$/src/com/petsu/theexile/Menu.java" />
         <option value="$PROJECT_DIR$/src/com/petsu/sound/BGM.java" />
         <option value="$PROJECT_DIR$/src/com/petsu/theexile/TheExile.java" />
+        <option value="$PROJECT_DIR$/src/com/petsu/theexile/Sprites.java" />
       </list>
     </option>
   </component>
@@ -662,15 +594,22 @@
       <option name="number" value="Default" />
       <updated>1459343422272</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test Commit">
+      <created>1459700381648</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1459700381648</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298351" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -899,6 +838,8 @@
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -968,16 +909,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/petsu/theexile/Sprites.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/petsu/sound/SFX.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1006,7 +937,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/petsu/theexile/TheExile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.740099">
+        <state vertical-scroll-proportion="0.0">
           <caret line="827" column="0" selection-start-line="827" selection-start-column="0" selection-end-line="827" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1044,6 +975,18 @@
             <element signature="method#about#0;class#TheExile#0" expanded="false" />
             <element signature="method#aboutBack#0;class#TheExile#0" expanded="false" />
             <element signature="method#exit#0;class#TheExile#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/petsu/theexile/Sprites.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.12623763">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
           </folding>
         </state>
       </provider>

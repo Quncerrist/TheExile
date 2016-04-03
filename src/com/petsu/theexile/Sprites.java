@@ -7,10 +7,10 @@ import java.io.IOException;
 import java.util.HashMap;
 
 public class Sprites {
-    public HashMap sprites;
+    public HashMap<String, BufferedImage> sprites;
 
     public Sprites() {
-        sprites = new HashMap();
+        sprites = new HashMap<>();
     }
 
     private BufferedImage loadImage(String url) {
@@ -25,10 +25,10 @@ public class Sprites {
     }
 
     public BufferedImage getSprite(String url) {
-        BufferedImage img = (BufferedImage)sprites.get(url);
+        BufferedImage img = sprites.get(url);
         if (img == null) {
             img = loadImage("graphics/" +url);
-            sprites.put(url,img);
+            sprites.put(url, img)
         }
         return img;
     }
