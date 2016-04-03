@@ -28,7 +28,7 @@ public class Sprites {
         BufferedImage img = sprites.get(url);
         if (img == null) {
             img = loadImage("graphics/" +url);
-            sprites.put(url, img)
+            sprites.put(url, img);
         }
         return img;
     }
